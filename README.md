@@ -12,4 +12,10 @@ Tämä repositorio sisältää minun kirjoittamat raportit kurssin tehtävistä.
 
 **h4 Some Disassembly Required:** Ghidra, käänteismallinnus
 
+**h5 GNU Debugger:** Dynaaminen analyysi, ohjelman tarkastelu ajossa
+
+**h6 Embedded Systems:** Sulautetut järjestelmät, valvontakameraan käsiksi pääsy ja tarkastelu
+
+**h7 Cryptography:** Salauksen purku hyödyntämällä sovelluksen haavoittuvuuksia
+
 Ronja Wahlstén
